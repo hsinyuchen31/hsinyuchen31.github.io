@@ -1,16 +1,15 @@
-title: Moonwalk
-author: Abhinav Saxena
-url: https://www.abhinavsaxena.com/moonwalk # root address of the site
-description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
+title: Hsin-Yu Chen
+author: Hsin-Yu Chen
+url: hsinyuchen31.github.io # root address of the site
+description: Hsin-Yu Chen holds a Ph.D. in Leisure and Human Behavior with a specialization in Anthropology from The Pennsylvania State University. 
 
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
 
-twitter:
-    username: abhinav # update or delete this
-    card: summary_large_image
+#twitter:
+#    username: abhinav # update or delete this
+#    card: summary_large_image
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 remote_theme: abhinavs/moonwalk
@@ -22,8 +21,8 @@ theme_config:
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: true # show blog description
   show_navbar: true # show horizontal navbar
-  show_footer: true # show footer links in home page,add in _data/home.yml
-  show_copyright: true # show copyright notice in footer
+  show_footer: false # show footer links in home page,add in _data/home.yml
+  show_copyright: false # show copyright notice in footer
   # following keys are using to create home layout
   show_projects: true # show projects as cards, add in _data/home.yml
   show_blog: true # show blog posts added in _posts
@@ -31,19 +30,19 @@ theme_config:
   show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
   # options for "home" page
   home:
-    title_projects: Portfolio
+    title_projects: Publications
     title_misc_list: Details
-    title_blog: Blog
-    title_old_projects: Old Projects
+    title_blog: Presentations
+    title_old_projects: Others
 
-soopr:
-  publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
+#soopr:
+#  publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
 
 highlighter: rouge
 
 sass:
   style: :compressed
 
-plugins:
+#plugins:
   - jekyll-feed
   - jekyll-soopr-seo-tag
