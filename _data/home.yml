@@ -11,32 +11,32 @@ navbar_entries:
 project_entries:
   - title: AJCS
     url: overview-post
-    desc: Symbolic cultural cues behind skin color
+    desc: Symbolic Cultural Cues Behind Skin Color
     highlight: SSCI
 
-  - title: Journal Article 1
+  - title: TBM
     url: overview-post
-    desc: Implications for Sun-Related Behavior
+    desc: Psychological Aspects of Skin Color Aesthetics and Sun-Related Behavior
     highlight: SSCI
 
   - title: AAJP
     url: overview-post
-    desc: Bicultural Socialization
+    desc: How Bicultural Socialization Shapes Attitudes toward Skin Color Aesthetics
     highlight: SSCI
 
   - title: Sex Roles
     url: overview-post
-    desc: Egg White or Sun-Kissed
+    desc: Skin Color and Women’s Leisure Behavior
     highlight: SSCI
 
-  - title: Project 5
+  - title: IJIR
     url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    #highlight: WIP
+    desc: Situating Colorism in Intercultural Contexts / Acculturation
+    highlight: SSCI
 
-  - title: Project 6
+  - title: JSARP
     url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+    desc: Intentionally Designed Three-Phase Time Diary as a Multi-Pronged Practice
 
 old_project_entries:
   - title: Soopr
