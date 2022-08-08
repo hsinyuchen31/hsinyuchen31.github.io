@@ -30,9 +30,9 @@ theme_config:
   show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
   # options for "home" page
   home:
-    title_projects: Publications
+    title_projects: Selected Publications
     title_misc_list: Details
-    title_blog: Presentations
+    title_blog: Selected Presentations
     title_old_projects: Others
 
 #soopr:
