@@ -11,7 +11,7 @@ navbar_entries:
 project_entries:
   - title: AJCS
     url: overview-post
-    desc: Symbolic Cultural Cues Behind Skin Color
+    desc: A Cross-Cultural Study: Symbolic Cultural Cues Behind Skin Color
     highlight: SSCI
 
   - title: TBM
@@ -26,7 +26,7 @@ project_entries:
 
   - title: Sex Roles
     url: overview-post
-    desc: Skin Color and Women’s Leisure Behavior
+    desc: SEgg White or Sun-Kissed: kin Color and Women’s Leisure Behavior
     highlight: SSCI
 
   - title: IJIR
@@ -37,6 +37,12 @@ project_entries:
   - title: JSARP
     url: overview-post
     desc: Intentionally Designed Three-Phase Time Diary as a Multi-Pronged Practice
+    highlight: ESSCI
+    
+  - title: JSARP
+    url: overview-post
+    desc: Intentionally Designed Three-Phase Time Diary as a Multi-Pronged Practice
+    highlight: ESSCI
 
 old_project_entries:
   - title: Soopr
@@ -52,6 +58,14 @@ old_project_entries:
     url: https://github.com/abhinavs/moonwalk
     desc: A fast and minimalist Jekyll blog theme with clean dark mode
 
+  - title: Humangous
+    url: https://www.humangous.co
+    desc: The better people know you, the better they collaborate
+    
+  - title: Humangous
+    url: https://www.humangous.co
+    desc: The better people know you, the better they collaborate
+    
   - title: Humangous
     url: https://www.humangous.co
     desc: The better people know you, the better they collaborate
