@@ -11,10 +11,10 @@ navbar_entries:
 project_entries:
   - title: AJCS
     url: overview-post
-    desc: American Journal of Cultural Sociology: Symbolic cultural cues behind skin color
+    desc: Symbolic cultural cues behind skin color
     highlight: SSCI
 
-  - title: Article 1
+  - title: Journal Article 1
     url: overview-post
     desc: Implications for Sun-Related Behavior
     highlight: SSCI
