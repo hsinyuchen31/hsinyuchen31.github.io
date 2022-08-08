@@ -9,24 +9,24 @@ navbar_entries:
     url: https://www.abhinav.co
 
 project_entries:
-  - title: American Journal of Cultural Sociology
+  - title: AJCS
     url: overview-post
-    desc: Deeper than the surface: Exploring symbolic cultural cues behind skin color among three groups of women with Chinese heritage
+    desc: Deeper than the surface
     highlight: SSCI
 
-  - title: Translational Behavioral Medicine
+  - title: TBM
     url: overview-post
-    desc: A Cross-Cultural Exploration on the Psychological Aspects of Skin Color Aesthetics: Implications for Sun-Related Behavior
+    desc: Implications for Sun-Related Behavior
     highlight: SSCI
 
-  - title: Asian American Journal of Psychology
+  - title: AAJP
     url: overview-post
-    desc: Caught between Light Skin is Beautiful and Tanned Skin is Attractive: How Bicultural Socialization Shapes Attitudes toward Skin Color Aesthetics
+    desc: Bicultural Socialization
     highlight: SSCI
 
   - title: Sex Roles
     url: overview-post
-    desc: Egg White or Sun-Kissed: A Cross-Cultural Exploration of Skin Color and Women’s Leisure Behavior
+    desc: Egg White or Sun-Kissed
     highlight: SSCI
 
   - title: Project 5
