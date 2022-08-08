@@ -10,22 +10,22 @@ navbar_entries:
 
 project_entries:
   - title: American Journal of Cultural Sociology
-    url: (https://link.springer.com/article/10.1057/s41290-020-00124-9)
+    url: overview-post
     desc: Deeper than the surface: Exploring symbolic cultural cues behind skin color among three groups of women with Chinese heritage
     highlight: SSCI
 
   - title: Translational Behavioral Medicine
-    url: (https://academic.oup.com/tbm/article-abstract/10/1/234/5497630?redirectedFrom=fulltext&login=false)
+    url: overview-post
     desc: A Cross-Cultural Exploration on the Psychological Aspects of Skin Color Aesthetics: Implications for Sun-Related Behavior
     highlight: SSCI
 
   - title: Asian American Journal of Psychology
-    url: (https://psycnet.apa.org/doiLanding?doi=10.1037%2Faap0000154)
+    url: overview-post
     desc: Caught between Light Skin is Beautiful and Tanned Skin is Attractive: How Bicultural Socialization Shapes Attitudes toward Skin Color Aesthetics
     highlight: SSCI
 
   - title: Sex Roles
-    url: (https://link.springer.com/article/10.1007/s11199-017-0785-4)
+    url: overview-post
     desc: Egg White or Sun-Kissed: A Cross-Cultural Exploration of Skin Color and Women’s Leisure Behavior
     highlight: SSCI
 
