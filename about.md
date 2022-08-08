@@ -1,8 +1,16 @@
 ---
 layout: post
-title: About
+title: About Me
 ---
 
-This is an example page!
+Hsin-Yu Chen, Ph.D
 
-Actually, it has the same layout of a post...
+Education
+
+Penn State University, State College, PA, US
+Ph.D. in Leisure and Human Behavior with a specialization in Cultural Anthropology
+PSU Online Teaching Certificate/Faculty Development
+
+Florida State University, Tallahassee, FL, US
+MS in Recreation and Leisure Service Administration 
+FSU Graduate Certificate in Event Management
