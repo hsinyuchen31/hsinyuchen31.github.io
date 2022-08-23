@@ -1,6 +1,6 @@
 navbar_entries:
   - title: about
-    url: https://www.seas.upenn.edu/~hsinyu31/
+    url: about
 
   - title: blog
     url: blog
