@@ -10,5 +10,5 @@ My overarching research explores the dynamic relationship between cultural const
 *(a) the sociocultural environment, in which meanings and ramifications of skin color (e.g., as related to race, class, social inequality, body image, and gender) have implications for identity, daily behavior, and health outcomes; and 
 *(b) the college environment, in which students’ time use has implications for their development and college experience.
 
-For more information, [here is my personal website](https://www.seas.upenn.edu/~hsinyu31).
+For more information, [please visit here](https://www.seas.upenn.edu/~hsinyu31).
 
